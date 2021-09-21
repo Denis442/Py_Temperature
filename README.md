@@ -1,5 +1,6 @@
 # Py_Temperature
 PyQt, arduino
+![ex32_ds18b20_scheme](https://user-images.githubusercontent.com/61247233/134204065-0ba449cb-adc9-48b2-af4a-bc9672d84c80.png)
 
 
 
